@@ -17,10 +17,12 @@ version: 4
 last_tested: 2020-01-28
 steps:
 - title: Introduction
-  completion: engaged
 - title: Colour the hat
 - title: Colour an eye
+  completion:
+  - engaged
 - title: Colour the eyes and buttons
 - title: Colour the nose
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: colour the body'

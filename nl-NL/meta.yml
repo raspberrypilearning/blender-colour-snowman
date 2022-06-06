@@ -17,10 +17,12 @@ version: 4
 last_tested: 2020-01-28
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Kleur de hoed
 - title: Kleur een oog
+  completion:
+  - engaged
 - title: Kleur de ogen en knopen
 - title: Kleur de neus
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: kleur het lichaam'

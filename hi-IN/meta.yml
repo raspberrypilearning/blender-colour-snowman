@@ -17,10 +17,12 @@ version: 4
 last_tested: 2020-01-28
 steps:
 - title: भूमिका
-  completion: engaged
 - title: टोपी में रंग भरें
 - title: एक आँख को रंग करें
+  completion:
+  - engaged
 - title: आँखों और बटनों को रंग करें
 - title: नाक को रंग करें
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: शरीर पर रंग करें'
