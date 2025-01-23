@@ -26,3 +26,5 @@ steps:
   completion:
   - internal
 - title: 'Challenge: colour the body'
+  completion:
+  - external
