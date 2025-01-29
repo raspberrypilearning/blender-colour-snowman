@@ -10,6 +10,8 @@ If you are following the [Blender for beginners](https://projects.raspberrypi.or
 
 --- no-print ---
 
-<iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/79f08731ff7848f48e09fbe473ee563b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="responsive-embed responsive-embed--video">
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/79f08731ff7848f48e09fbe473ee563b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 --- /no-print ---
