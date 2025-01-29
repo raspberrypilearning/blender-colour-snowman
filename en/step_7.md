@@ -1,6 +1,6 @@
 ## What can you do now?
 
-If you are following the [Blender for beginners](https://projects.raspberrypi.org/en/pathways/blender-basics) pathway, you can move on to the [Block house](https://projects.raspberrypi.org/en/projects/next-project/blender-block-house) project. In this project, you will create creating a simple house from a single block.
+If you are following the [Blender for beginners](https://projects.raspberrypi.org/en/pathways/blender-basics) pathway, you can move on to the [Block house](https://projects.raspberrypi.org/en/projects/blender-block-house) project. In this project, you will create creating a simple house from a single block.
 
 --- print-only --- 
 
