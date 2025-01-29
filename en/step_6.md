@@ -1,11 +1,27 @@
-## Challenge: colour the body
+## Challenge
 
-When you're in 3D view, you will notice that the spheres making up the bottom and the head of the snowman are grey and not white.
+--- task ---
 
-+ See if you can use what you've learnt to colour the snowman's head and body white.
+Colour the snowman's nose orange.
 
-To make the colour white, you need to drag the dot on the slider all the way to the top.
+You'll need to create a new material and select a colour for it.
 
-![White bottom](images/blender-material-bottom-colour.png)
+--- /task ---
+
+--- task ---
+
+Colour the snowman's head and body white.
+
+To make a white material, drag the intensity slider to the top.
+
+--- /task ---
+
+--- task ---
+
+Click 'Render Image' in the 'Render' menu to see your finished snowman.
+
+--- /task ---
 
 ![Finished snowman](images/blender-snowman-coloured.png)
+
+--- save ---

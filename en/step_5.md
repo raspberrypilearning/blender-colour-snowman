@@ -1,23 +1,47 @@
 ## Colour the nose
 
-The snowman's nose will be orange. As you don't yet have an orange material, you will need to make a new colour.
+--- task ---
 
-+ Select the nose.
+Select the nose. 
 
-+ Go to the **Material Properties** tab.
+--- /task ---
 
-+ Select **New** to create a new colour.
+--- task ---
 
-+ Give the material a name, for example 'carrot'.
+Add a new material by clicking **New**.
 
-![Name the material](images/blender-material-cone-name.png)
+![Add a new material](images/blender-new-material.png)
 
-+ Select **Base Color** and pick a nice orange colour. If necessary, drop the intensity to get a nice carrot-like shade.
+--- /task ---
 
-![Select the colour](images/blender-material-cone-colour.png)
+--- task ---
 
-+ Render your image to check that the nose has a nice orange colour.
+Name the material 'coal'.
 
-![Render the cone](images/blender-snowman-orange-nose.png)
+--- /task ---
 
-+ Exit the render view again.
+--- task ---
+
+Select a green color from the **Base Color** menu to colour your rocket blue.
+
+![Select green](images/blender-material-hat-colour.png)
+
+--- /task ---
+
+--- task ---
+
+Select **Base Color**. 
+
+--- /task ---
+
+There is no black on the colour palette. 
+
+--- task ---
+
+Drop the intensity slider on the right until you get to black.
+
+![Create new material](images/blender-material-sphere-colour.png)
+
+--- /task ---
+
+--- save ---

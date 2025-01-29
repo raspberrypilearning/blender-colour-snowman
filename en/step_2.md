@@ -1,47 +1,91 @@
 ## Colour the hat
 
-You will start with the snowman that you created if you have completed the [Snowman](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} resource. If you don't have a snowman, you can [download the starter project](resources/snowman.blend).
+--- task ---
 
-On its head, the snowman has a hat. Let's try and make it green.
+Open the snowman you created in the [Snowman](https://projects.raspberrypi.org/en/projects/blender-snowman){:target="_blank"} project. 
 
-+ Render the image by pressing <kbd>F12</kbd> (or <kbd>FN + F12</kbd> if you're working on a Mac).
+If you don't have a snowman, you can [download the starter project](resources/colour-a-snowman.blend).
 
-If you look at what the camera sees, the snowman looks entirely grey. For example:
-
-![Grey snowman](images/blender-snowman.png)
+--- /task ---
 
 To colour the snowman, you need to add some **materials** to the model.
 
-+ Press <kbd>ESC</kbd> to exit the render view.
+--- task ---
 
-+ Select the hat, then select the **Material Properties** icon from the menu on the right-hand panel.
+Select the hat.
 
-![Select the material tab](images/material-icon-new.png)
+--- /task ---
 
-+ Add a new material by clicking the **New** button.
+--- task ---
 
-+ Name the material 'greenhat' by typing the name in the box.
+Go to the **Material Properties** tab on the right menu panel.
+
+You might need to scroll the menu down to see it.
+
+![Material tab](images/blender-material-tab.png)
+
+--- /task ---
+
+--- task ---
+
+Add a new material by clicking **New**.
+
+![Add a new material](images/blender-new-material.png)
+
+--- /task ---
+
+--- task ---
+
+Name the material 'greenhat' by typing the name in the box.
 
 ![Name the material](images/blender-material-hat-name.png)
 
-+ Below, go to **Base Color** and click on the white box. A colour palette will appear, where you can select a nice green colour.
+--- /task ---
+
+--- task ---
+
+Select a green color from the **Base Color** menu to colour your rocket blue.
 
 ![Select green](images/blender-material-hat-colour.png)
 
-The colour choices might look too bright green for your liking. If you would prefer a darker green, you can decrease the amount of intensity.
+--- /task ---
 
-+ Select **Base Color** again by clicking on the coloured box. Lower the dot in the right bar on the colour palette towards the black colour. You'll see the green getting darker.
+The colour might be too bright. 
 
-![Darker hat](images/blender-material-hat-darker.png)
+You can decrease the amount of intensity.
 
-+ Render your image to see what it looks like.
+--- task ---
 
-![Snowman with dark hat](images/blender-snowman-green-hat.png)
+Select **Base Color** again and lower the intensity slider on the right towards the black colour. 
+
+You'll see the green getting darker.
+
+![The intensity slider](images/blender-material-hat-darker.png)
+
+--- /task ---
+
+--- task ---
+
+Click 'Render Image' in the 'Render' menu to see what your snowman looks like so far.
+
+**Note**: This may take some time.
+
+--- /task ---
 
 You can see that the snowman now has a green hat.
 
-+ Exit the render view.
+--- task ---
 
-+ To view the colour on the snowman in the 3D View, click the **Viewport Shading** button.
+Exit the render view.
 
-![Viewport Shading button](images/viewport-shading.png)
+--- /task ---
+
+--- task ---
+
+Select the 'Material Preview' or 'Rendered View' option from the Viewport Shading options to see the colour on the snowman in the 3D View.
+
+![Material view](images/material-view.png)
+
+--- /task ---
+
+--- save ---
