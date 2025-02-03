@@ -1,47 +1,21 @@
-## Colour the nose
+## Challenge
 
 --- task ---
 
-Select the nose. 
+Colour the snowman's nose orange.
+
+You'll need to create a new material and select a colour for it.
 
 --- /task ---
 
 --- task ---
 
-Add a new material by clicking **New**.
+Colour the snowman's head and body white.
 
-![Add a new material](images/blender-new-material.png)
-
---- /task ---
-
---- task ---
-
-Name the material 'coal'.
+To make a white material, drag the intensity slider to the top.
 
 --- /task ---
 
---- task ---
-
-Select a green color from the **Base Color** menu to colour your rocket blue.
-
-![Select green](images/blender-material-hat-colour.png)
-
---- /task ---
-
---- task ---
-
-Select **Base Color**. 
-
---- /task ---
-
-There is no black on the colour palette. 
-
---- task ---
-
-Drop the intensity slider on the right until you get to black.
-
-![Create new material](images/blender-material-sphere-colour.png)
-
---- /task ---
+![Finished snowman](images/blender-snowman-coloured.png)
 
 --- save ---

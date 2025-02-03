@@ -1,27 +1,17 @@
-## Challenge
+## What can you do now?
 
---- task ---
+If you are following the [Blender for beginners](https://projects.raspberrypi.org/en/pathways/blender-basics) pathway, you can move on to the [Block house](https://projects.raspberrypi.org/en/projects/blender-block-house) project. In this project, you will create creating a simple house from a single block.
 
-Colour the snowman's nose orange.
+--- print-only --- 
 
-You'll need to create a new material and select a colour for it.
+![A model of a simple brown house](images/blender-house-colour-render.png)
 
---- /task ---
+--- /print-only ---
 
---- task ---
+--- no-print ---
 
-Colour the snowman's head and body white.
+<div class="responsive-embed responsive-embed--video">
+  <iframe class="responsive-embed__iframe" src="https://sketchfab.com/models/79f08731ff7848f48e09fbe473ee563b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
-To make a white material, drag the intensity slider to the top.
-
---- /task ---
-
---- task ---
-
-Click 'Render Image' in the 'Render' menu to see your finished snowman.
-
---- /task ---
-
-![Finished snowman](images/blender-snowman-coloured.png)
-
---- save ---
+--- /no-print ---

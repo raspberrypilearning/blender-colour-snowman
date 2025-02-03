@@ -22,7 +22,6 @@ steps:
   completion:
   - engaged
 - title: Colour the eyes and buttons
-- title: Colour the nose
   completion:
   - internal
 - title: Challenge
