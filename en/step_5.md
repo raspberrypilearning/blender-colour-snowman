@@ -1,23 +1,21 @@
-## Colour the nose
+## Challenge
 
-The snowman's nose will be orange. As you don't yet have an orange material, you will need to make a new colour.
+--- task ---
 
-+ Select the nose.
+Colour the snowman's nose orange.
 
-+ Go to the **Material Properties** tab.
+You'll need to create a new material and select a colour for it.
 
-+ Select **New** to create a new colour.
+--- /task ---
 
-+ Give the material a name, for example 'carrot'.
+--- task ---
 
-![Name the material](images/blender-material-cone-name.png)
+Colour the snowman's head and body white.
 
-+ Select **Base Color** and pick a nice orange colour. If necessary, drop the intensity to get a nice carrot-like shade.
+To make a white material, drag the intensity slider to the top.
 
-![Select the colour](images/blender-material-cone-colour.png)
+--- /task ---
 
-+ Render your image to check that the nose has a nice orange colour.
+![Finished snowman](images/blender-snowman-coloured.png)
 
-![Render the cone](images/blender-snowman-orange-nose.png)
-
-+ Exit the render view again.
+--- save ---
